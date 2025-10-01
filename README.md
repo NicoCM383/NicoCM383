@@ -35,8 +35,6 @@ Machine Learning Engineer specializing in AI, computer vision, and automation. E
 
 - Outside tech, 📖 I enjoy reading, 🖌️ painting & sketching, 🎵 music, and 🌴 the outdoors.
 
-- 📫 Reach out to me at: <a href="mailto:nicocorimayo09@gmail.com">nicocorimayo09@gmail.com
-</a>.
 
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
