@@ -29,7 +29,7 @@ Machine Learning Engineer specializing in AI, computer vision, and automation. E
 
   - MLOps with Docker, FastAPI, Streamlit
 
-  - Automatization with n8n and langchain
+  - Automation with n8n and langchain
 
 - 👯 I’m open to collaborating on open-source ML/CV, LLM applications, robotics, and drone autonomy projects.
 
@@ -38,8 +38,11 @@ Machine Learning Engineer specializing in AI, computer vision, and automation. E
 - Outside tech, 📖 I enjoy reading, 🖌️ painting & sketching, 🎵 music, and 🌴 the outdoors.
 
 
+---
+
+
 <!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -48,8 +51,12 @@ Machine Learning Engineer specializing in AI, computer vision, and automation. E
 <br />
 
 <h3 align="left">Current Learning</h3>
-<ul align="left">
+<ul align="left" style="font-size:20px; line-height:1.6;">
   <li>Deepening my knowledge in Machine Learning and AI.</li>
   <li>Exploring advanced React.js patterns and state management techniques.</li>
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
+  <li>Building experience with MindSpore.</li>
+  <li>Broadening my knowledge of AI agents and automation.</li>
+  <li>Starting in the world of Blockchain.</li>
 </ul>
+
