@@ -29,6 +29,8 @@ Machine Learning Engineer specializing in AI, computer vision, and automation. E
 
   - MLOps with Docker, FastAPI, Streamlit
 
+  - Automatization with n8n and langchain
+
 - 👯 I’m open to collaborating on open-source ML/CV, LLM applications, robotics, and drone autonomy projects.
 
 - ✔ Ask me about Python/SQL, computer vision, LLMs/RAG, ROS, and applied AI for real-world systems.
