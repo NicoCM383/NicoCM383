@@ -91,4 +91,6 @@ Machine Learning Engineer specializing in AI, computer vision, and automation. E
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/suhaib3100/suhaib3100/output/snake.svg" alt="Snake animation" />
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
