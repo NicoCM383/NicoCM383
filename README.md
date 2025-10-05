@@ -74,8 +74,8 @@ Machine Learning Engineer specializing in AI, computer vision, and automation. E
 
 <div align="center">
   
-<a href="nicolasrolando61@gamil.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="NicoCM383@gmail.com" style="margin-bottom: 5px;" />
+<a href="mailto:nicolasrolando61@gamil.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="nicolasrolando61@gamil.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://github.com/NicoCM383" target="_blank">
