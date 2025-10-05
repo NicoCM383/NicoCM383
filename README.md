@@ -37,6 +37,7 @@ Machine Learning Engineer specializing in AI, computer vision, and automation. E
 
 - Outside tech, 📖 I enjoy reading, 🖌️ painting & sketching, 🎵 music, and 🌴 the outdoors.
 
+<br clear="both">
 
 ---
 
@@ -60,3 +61,46 @@ Machine Learning Engineer specializing in AI, computer vision, and automation. E
   <li>Starting in the world of Blockchain.</li>
 </ul>
 
+<!-- Forzar salto debajo del GIF alineado a la izquierda -->
+<div style="clear: both;"></div>
+
+---
+
+<br clear="both">
+<!--Contact Section--> 
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+
+
+<div align="center">
+  
+<a href="mailto:suhaibking310@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="suhaibking310@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://x.com/Suhaib_King" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="Suhaib" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/suhaib_s_z" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="suhaib_s_z" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.githubcom/Suhaib3100" target="_blank">
+<img src="./github.png" width=50 height=50 alt="Suhaib3100" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/suhaib-sz" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+</div>
+<br/>
+
+<!--Buy me a coffee-->
+<div align="center">
+<a href="https://buymeacoffee.com/suhaibking7" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+</div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/suhaib3100/suhaib3100/output/snake.svg" alt="Snake animation" />
