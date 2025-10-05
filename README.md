@@ -53,12 +53,15 @@ Machine Learning Engineer specializing in AI, computer vision, and automation. E
 
 <h3 align="left">Current Learning</h3>
 <ul align="left" style="font-size:20px; line-height:1.6;">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
   <li>Exploring advanced React.js patterns and state management techniques.</li>
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
   <li>Building experience with MindSpore.</li>
+  <li>Deepening my knowledge in Machine Learning and AI.</li>
   <li>Broadening my knowledge of AI agents and automation.</li>
   <li>Starting in the world of Blockchain.</li>
+  <li>Focusing on AI for autonomous drones.</li>
+  <li>Specializing in ROS 2.</li>
+  <li>Deepening my expertise in project management.</li>
 </ul>
 
 <!-- Forzar salto debajo del GIF alineado a la izquierda -->
