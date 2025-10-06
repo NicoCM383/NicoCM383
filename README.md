@@ -8,7 +8,7 @@
 
 
 
-I'm Machine Learning Engineer specializing in AI, computer vision, and automation. Expert in Python, SQL, NumPy/Pandas, Scikit-learn, TensorFlow/PyTorch, OpenCV, ROS, Docker, FastAPI, Streamlit, and Redis; additional depth in drones (Pixhawk, MAVLink, Raspberry Pi). I worked like AI Developer at DL Consultores, leading autonomous drone safety systems, including the Sentinel for Mining project presented at COPAIPA. Currently, I'm researching high-performance evolutionary computing and applied data analysis at UCASAL and completing the last year of my computer engineering degree.
+I'm Machine Learning Engineer specializing in AI, computer vision, and automation. Expert in Python, SQL, NumPy/Pandas, Scikit-learn, TensorFlow/PyTorch, OpenCV, ROS, Docker, FastAPI, Streamlit, and Redis; additional depth in drones (Pixhawk, MAVLink, Raspberry Pi). I worked like AI Developer at DL Consultores, leading autonomous drone safety systems, including the Sentinel for Mining project presented at COPAIPA. Currently, I'm researching high-performance evolutionary computing and completing the last year of my computer engineering degree at Catholic University of Salta.
 
 * **I’m interested in machine learning engineering, computer vision, LLMs (prompting, fine-tuning, RAG), autonomous systems, and AI-driven product development (plus robotics & drones)**.
 
