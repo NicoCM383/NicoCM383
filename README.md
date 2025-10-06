@@ -1,19 +1,14 @@
-<div align="center">
-  <h1>
-    Hi, I'm Nicolás Corimayo
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-  </h1>
-</div>
+<!--Banner-->
+![NicoCM383 Banner Image](./banner.png)
 
 
-
- ## <img src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif" width="50" />&nbsp;***About me***
+ ## <img src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif" width="50" />&nbsp;***I'm Nicolás Corimayo***
 
 <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 
 
-Machine Learning Engineer specializing in AI, computer vision, and automation. Expert in Python, SQL, NumPy/Pandas, Scikit-learn, TensorFlow/PyTorch, OpenCV, ROS, Docker, FastAPI, Streamlit, and Redis; additional depth in drones (Pixhawk, MAVLink, Raspberry Pi). Former AI Developer at DL Consultores, leading autonomous drone safety systems, including the Sentinel for Mining project presented at COPAIPA. Currently researching high-performance evolutionary computing and applied data analysis at UCASAL; Computer Science Engineering degree in progress. Strong fit for ML engineering and AI-driven product development.
+I'm Machine Learning Engineer specializing in AI, computer vision, and automation. Expert in Python, SQL, NumPy/Pandas, Scikit-learn, TensorFlow/PyTorch, OpenCV, ROS, Docker, FastAPI, Streamlit, and Redis; additional depth in drones (Pixhawk, MAVLink, Raspberry Pi). Former AI Developer at DL Consultores, leading autonomous drone safety systems, including the Sentinel for Mining project presented at COPAIPA. Currently researching high-performance evolutionary computing and applied data analysis at UCASAL; Computer Science Engineering degree in progress. Strong fit for ML engineering and AI-driven product development.
 
 * **I’m interested in machine learning engineering, computer vision, LLMs (prompting, fine-tuning, RAG), autonomous systems, and AI-driven product development (plus robotics & drones)**.
 
