@@ -8,9 +8,9 @@
 
 
 
-I'm Machine Learning Engineer specializing in AI, computer vision, and automation. Expert in Python, SQL, NumPy/Pandas, Scikit-learn, TensorFlow/PyTorch, OpenCV, ROS, Docker, FastAPI, Streamlit, and Redis; additional depth in drones (Pixhawk, MAVLink, Raspberry Pi). I worked like AI Developer at DL Consultores, leading autonomous drone safety systems, including the Sentinel for Mining project presented at COPAIPA. Currently, I'm researching high-performance evolutionary computing and completing the last year of my computer engineering degree at Catholic University of Salta.
+Ingeniero de Datos, especializado en el diseño y construcción de pipelines de datos, automatización de procesos y analítica. Trabajo principalmente con Python, SQL, Airflow, Spark, Kafka y Docker, integrando datos desde diferentes fuentes hacia entornos preparados para análisis y modelos de machine learning. Tengo experiencia trabajando con ETL, orquestación de procesos, bases de datos relacionales y no relacionales, así como en el desarrollo de scripts y herramientas para mejorar la calidad y disponibilidad de los datos. Me gusta documentar bien lo que hago, colaborar con otros equipos y seguir aprendiendo sobre arquitectura de datos, cloud y buenas prácticas de ingeniería para construir soluciones escalables y mantenibles.
 
-* **I’m interested in machine learning engineering, computer vision, LLMs (prompting, fine-tuning, RAG), autonomous systems, and AI-driven product development (plus robotics & drones)**.
+* **I’m interested in data engineering, machine learning engineering, computer vision, LLMs (prompting, fine-tuning, RAG), autonomous systems, and AI-driven product development (plus robotics & drones)**.
 
 - 🌱 I’m currently deepening:
 
