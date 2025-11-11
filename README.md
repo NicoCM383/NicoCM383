@@ -8,7 +8,7 @@
 
 
 
-Data Engineer specialized in designing and building data pipelines, process automation, and analytics. I primarily work with Python, SQL, Airflow, Spark, Kafka, and Docker, integrating data from various sources into environments prepared for analysis and machine learning models. I have experience working with ETL, process orchestration, relational and non-relational databases, as well as developing scripts and tools to improve data quality and availability. I enjoy thoroughly documenting my work, collaborating with other teams, and continuously learning about data architecture, cloud technologies, and engineering best practices to build scalable and maintainable solutions.
+Computer Engineer specialized in data engineering designing and building data pipelines, process automation, and analytics. I primarily work with Python, SQL, Airflow, Spark, Kafka, and Docker, integrating data from various sources into environments prepared for analysis and machine learning models. I have experience working with ETL, process orchestration, relational and non-relational databases, as well as developing scripts and tools to improve data quality and availability. I enjoy thoroughly documenting my work, collaborating with other teams, and continuously learning about data architecture, cloud technologies, and engineering best practices to build scalable and maintainable solutions.
 
 * **I’m interested in data engineering, machine learning engineering, computer vision, LLMs (prompting, fine-tuning, RAG), autonomous systems, and AI-driven product development (plus robotics & drones)**.
 
