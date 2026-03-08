@@ -1,0 +1,19 @@
+{
+  "name": "tetris-game-engine",
+  "version": "1.0.0",
+  "description": "A professional Tetris game engine with advanced visual effects and mechanics",
+  "main": "solution.js",
+  "scripts": {
+    "test": "jest --coverage --forceExit",
+    "test:watch": "jest --watch"
+  },
+  "keywords": ["tetris", "game", "canvas", "javascript"],
+  "author": "NicoCM383",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
